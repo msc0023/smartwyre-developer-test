@@ -10,12 +10,15 @@ class Program
     {
         Console.WriteLine("Enter a Rebate Identifier: ");
         var rebateIdentifier = Console.ReadLine();
+
         Console.WriteLine("Enter a Produce Identifier: ");
         var productIdentifier = Console.ReadLine();
+
         bool notValidVolume = true;
         while(notValidVolume) {
             Console.WriteLine("Enter a Volume: ");
             var volume = Console.ReadLine();
+            
             if(Decimal.TryParse(volume, out decimal volumeDecimal)) {
                 notValidVolume = false;
                 RebateService rebateService = new RebateService();

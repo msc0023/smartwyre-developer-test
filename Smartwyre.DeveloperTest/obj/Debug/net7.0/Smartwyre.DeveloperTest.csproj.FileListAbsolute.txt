@@ -1,0 +1,12 @@
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/bin/Debug/net7.0/Smartwyre.DeveloperTest.deps.json
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/bin/Debug/net7.0/Smartwyre.DeveloperTest.dll
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/bin/Debug/net7.0/Smartwyre.DeveloperTest.pdb
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.csproj.AssemblyReference.cache
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.AssemblyInfoInputs.cache
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.AssemblyInfo.cs
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.csproj.CoreCompileInputs.cache
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.dll
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/obj/Debug/net7.0/refint/Smartwyre.DeveloperTest.dll
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.pdb
+/Users/sullycallaway/Documents/GitHub/smartwyre-developer-test/Smartwyre.DeveloperTest/obj/Debug/net7.0/ref/Smartwyre.DeveloperTest.dll

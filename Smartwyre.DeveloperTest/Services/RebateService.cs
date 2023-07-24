@@ -16,7 +16,6 @@ public class RebateService : IRebateService
         Rebate rebate = rebateDataStore.GetRebate(request.RebateIdentifier);
         Product product = productDataStore.GetProduct(request.ProductIdentifier);
 
-
         var result = new CalculateRebateResult();
 
         var rebateAmount = 0m;
